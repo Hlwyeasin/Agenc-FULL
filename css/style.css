@@ -393,16 +393,17 @@ p {
 }
 
 #RIVEW_PART .rivewSlider .slide {
-    background-color: #d3caca;
+    background-color: #fcf5f5;
     margin: 0 20px;
     padding: 54px 58px;
-    border-radius: 30%;
+    border-radius: 8%;
     transition: all linear .4s;
 
 }
 
 #RIVEW_PART .rivewSlider .slick-center {
-    background: #6A4DF4;
+    background: #4151e0;
+    color: white;
 
 }
 
@@ -695,7 +696,7 @@ footer .last_part{
     padding: 33px 0;
     margin-top: 50px;
     margin-bottom: 50px;
-    background-color: #132b2560;
+    background-color: hsla(0, 0%, 85%, 0.376);
  
 
   
